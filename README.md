@@ -11,7 +11,7 @@ This is a simple script to extract hand written text and attempt to turn it into
 
 `Pass in an a local or web url image for text to be read`
 
-##Example Useage
+## Example Useage
 
 `extractor = ExtractTextFromImage()`
 
