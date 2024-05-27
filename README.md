@@ -9,5 +9,5 @@ This is a simple script to extract hand written text and attempt to turn it into
 
 `Replace api key with your api key`
 
-`Pass in an image for text to be read`
+`Pass in an a local or web url image for text to be read`
 
